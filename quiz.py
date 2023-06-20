@@ -1,0 +1,25 @@
+quiz_questions = [
+    [["What is the capital of France?"], ["Paris"], ["London", "Berlin", "Madrid", "Paris"]],
+    [["Which planet is known as the Red Planet?"], ["Mars"], ["Venus", "Jupiter", "Mercury", "Mars"]],
+    [["Who painted the Mona Lisa?"], ["Leonardo da Vinci"], ["Pablo Picasso", "Vincent van Gogh", "Michelangelo", "Leonardo da Vinci"]],
+    [["What is the tallest mountain in the world?"], ["Mount Everest"], ["K2", "Kilimanjaro", "Makalu", "Mount Everest"]],
+    [["Who wrote the novel 'Pride and Prejudice'?"], ["Jane Austen"], ["Emily Bronte", "Charlotte Bronte", "Agatha Christie", "Jane Austen"]],
+    [["What is the largest ocean on Earth?"], ["Pacific Ocean"], ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"]],
+    [["Who is the current President of the United States?"], ["Joe Biden"], ["Donald Trump", "Barack Obama", "George W. Bush", "Joe Biden"]],
+    [["What is the chemical symbol for gold?"], ["Au"], ["Ag", "Cu", "Fe", "Au"]],
+    [["Which country is famous for its maple syrup?"], ["Canada"], ["Sweden", "Switzerland", "Australia", "Canada"]],
+    [["Who invented the telephone?"], ["Alexander Graham Bell"], ["Thomas Edison", "Nikola Tesla", "Albert Einstein", "Alexander Graham Bell"]],
+    [["What is the largest organ in the human body?"], ["Skin"], ["Heart", "Liver", "Brain", "Skin"]],
+    [["Who painted the 'Sistine Chapel ceiling'?"], ["Michelangelo"], ["Leonardo da Vinci", "Raphael", "Pablo Picasso", "Michelangelo"]],
+    [["How many planets are there in our solar system?"], ["8"], ["9", "7", "10", "8"]],
+    [["What is the chemical symbol for oxygen?"], ["O"], ["C", "H", "N", "O"]],
+    [["Who wrote the play 'Romeo and Juliet'?"], ["William Shakespeare"], ["George Bernard Shaw", "Oscar Wilde", "Jane Austen", "William Shakespeare"]],
+    [["Which country is known as the 'Land of the Rising Sun'?"], ["Japan"], ["China", "South Korea", "Thailand", "Japan"]],
+    [["What is the largest mammal on Earth?"], ["Blue whale"], ["Elephant", "Giraffe", "Hippopotamus", "Blue whale"]],
+    [["Who is the author of the Harry Potter book series?"], ["J.K. Rowling"], ["Stephen King", "George R.R. Martin", "Roald Dahl", "J.K. Rowling"]],
+    [["Which city is known as the 'Eternal City'?"], ["Rome"], ["Athens", "Florence", "Istanbul", "Rome"]],
+    [["What is the chemical symbol for sodium?"], ["Na"], ["K", "Ca", "Mg", "Na"]],
+    [["Who discovered penicillin?"], ["Alexander Fleming"], ["Marie Curie", "Isaac Newton", "Albert Einstein", "Alexander Fleming"]],
+    [["Which animal is known for its ability to change its color?"], ["Chameleon"], ["Gorilla", "Penguin", "Tiger", "Chameleon"]]
+]
+
